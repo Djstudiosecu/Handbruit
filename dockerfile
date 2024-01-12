@@ -19,9 +19,9 @@ RUN set -x \
         && apt-get -yqq dist-upgrade \
         && apt-get clean
 
-RUN apt-get --yes install git \
+RUN apt-get install git\
     && cd /tmp \
-    && git clone https://github.com/1N3/BruteX.git \
+    && git clone https://github.com/Djstudiosecu/Handbruit
     && cd BruteX \
     && ./install.sh \
     && brutex
