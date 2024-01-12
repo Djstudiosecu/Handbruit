@@ -5,6 +5,9 @@ brute forcing tool.
 
 installation in termux 
 
+$ apt update && apt upgrade
+$ pkg install git
+$ git clone
 
 
 
