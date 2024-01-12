@@ -15,8 +15,8 @@ echo -e "$COLOR1  |    |   \ |  | \/  |  /|  | \  ___/ /     \ $RESET"
 echo -e "$COLOR1  |______  / |__|  |____/ |__|  \___  >___/\  \ $RESET"
 echo -e "$COLOR1         \/                         \/      \_/$RESET"
 echo ""
-echo -e "$COLOR1 + -- --=[ BruteX by @xer0dayz$RESET"
-echo -e "$COLOR1 + -- --=[ https://sn1persecurity.com$RESET"
+echo -e "$COLOR1 + -- --=[ BruteX by @Djstudiosecu$RESET"
+echo -e "$COLOR1 + -- --=[ https://github/djstudiosecu.com$RESET"
 echo -e "$RESET"
 
 BRUTEX_INSTALL_DIR=/usr/share/brutex
